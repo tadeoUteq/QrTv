@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Qtv" parent="@style/Theme.Leanback" />
+</resources>
